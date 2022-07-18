@@ -6,7 +6,7 @@ else:
     print(int(amount_1) + int(amount_2))
 
 amount_3 = input("enter the amount you want to subtract: ")
-amount_4 = input("enter the amount you wanr to subtract; ")
+amount_4 = input("enter the amount you want to subtract: ")
 if int(amount_3) > 1000:
     print("where did you see money?")
 else:
@@ -19,9 +19,9 @@ if int(amount_5) > 1000:
 else:
     print(int(amount_5) * int(amount_6))
 
-amount_7 = input("enter the amount you want to multiply: ")
-amount_8 = input("enter the amount you want to multiply: ")
+amount_7 = input("enter the amount you want to divide: ")
+amount_8 = input("enter the amount you want to divide: ")
 if int(amount_7) > 1000:
     print("where did you see money?")
 else:
-    print(int(amount_7) * int(amount_8))
+    print(int(amount_7) / int(amount_8))
