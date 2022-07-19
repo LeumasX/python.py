@@ -6,5 +6,5 @@ print(_dictionaries.pop('Religion'))
 print(_dictionaries.pop('Job'))
 #sorry sir but i was only able to use the pop function
 #i couldn't find the remove function
-#the difference between a tuple and a list is:list are more accessable than tuples once a tuple is let it can't be change but on the other hand list can be accessed anytime.
-#another difference is that tuples use standard brackets will list uses square brackets.
+#the difference between a tuple and a list is:list are more accessable than tuples once a tuple is set it can't be change,but on the other hand list can be accessed anytime.
+#another difference is that tuples use standard brackets while list uses square brackets.
